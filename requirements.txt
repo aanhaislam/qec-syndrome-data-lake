@@ -1,0 +1,8 @@
+stim
+pymatching
+boto3
+numpy
+pandas
+pyarrow
+pytest
+moto[s3]
